@@ -1,0 +1,6 @@
+Testing
+setup database
+Db needs to handle insertions when an entry is already there
+Need to look into multiple page results
+write documentation
+turn it into command prompt
